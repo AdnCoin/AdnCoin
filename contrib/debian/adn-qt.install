@@ -1,0 +1,6 @@
+usr/local/bin/adn-qt usr/bin
+share/pixmaps/adn32.xpm usr/share/pixmaps
+share/pixmaps/adn16.xpm usr/share/pixmaps
+share/pixmaps/adn128.png usr/share/pixmaps
+debian/adn-qt.desktop usr/share/applications
+debian/adn-qt.protocol usr/share/kde4/services/

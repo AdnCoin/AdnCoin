@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/adn_bg.qm</file>
+        <file alias="de">locale/adn_de.qm</file>
+        <file alias="en">locale/adn_en.qm</file>
+        <file alias="es">locale/adn_es.qm</file>
+        <file alias="fi">locale/adn_fi.qm</file>
+        <file alias="fr">locale/adn_fr.qm</file>
+        <file alias="it">locale/adn_it.qm</file>
+        <file alias="ja">locale/adn_ja.qm</file>
+        <file alias="pl">locale/adn_pl.qm</file>
+        <file alias="pt">locale/adn_pt.qm</file>
+        <file alias="ru">locale/adn_ru.qm</file>
+        <file alias="sk">locale/adn_sk.qm</file>
+        <file alias="sv">locale/adn_sv.qm</file>
+        <file alias="vi">locale/adn_vi.qm</file>
+        <file alias="zh_CN">locale/adn_zh_CN.qm</file>
+        <file alias="zh_TW">locale/adn_zh_TW.qm</file>
+    </qresource>
+</RCC>
