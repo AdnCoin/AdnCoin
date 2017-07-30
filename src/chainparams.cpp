@@ -127,7 +127,7 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0xe0028eb9648db56b1ac77cf090b99048a8007e2bb64b68f092c03c7f56a662c7"));
 
 
-        vSeeds.push_back(CDNSSeedData("adn.se", "adn.se"));
+        vSeeds.push_back(CDNSSeedData("adn.hopto.org", "adn.freedynamicdns.org"));
 
         // Adn addresses start with 'A'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,23);
